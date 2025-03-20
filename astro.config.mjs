@@ -26,7 +26,7 @@ export default defineConfig({
               },
               {
                   label: 'Artificial Intelligence',
-                  autogenerate: { directory: 'artificial intelligence' },
+                  autogenerate: { directory: 'artificial' },
               },
           ],
       }),
