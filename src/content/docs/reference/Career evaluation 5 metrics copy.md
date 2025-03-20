@@ -1,0 +1,43 @@
+---
+title: Career evaluation
+description: Testing
+---
+
+### 1. What is my long term goals
+- What skills are needed to get there
+- What training is needed
+
+### 2. Take action based on feedback
+- What skills I am planning to gain
+- These are the training
+- This is how it will benefit the Organisation
+
+### 3. Networking
+		Internal and External
+
+### 4. Maintain a career portfolio of projects and playbook
+#### Project portfolio
+- Situation of the project
+- What is the problem you are solving
+- What are the complications within the project
+- What are the key analysis that you have discovered
+- What are the outcomes from your input
+#### Playbook
+Write a one page list of all the knowledge and skills you have with respect to one part of your process or area of expertise
+eg Research and Analysis or Design and Prototyping.
+- List out all the experiences in that area
+- Challenges in that area
+
+### 5. Building a benchmark
+#### Where do I want to be?
+- What is my salary expectation after certain time of experience.
+		eg 3 years as Product Designer I want to be on $100k
+		5 years I want to be in a team lead position, $150k+
+#### Am I on track?
+- If not on track or beyond organisation capability, then it's time to consider moving on.
+
+
+
+
+###### links
+- [5 Metrics to Career Growth](https://www.youtube.com/watch?app=desktop&v=0_CpZjU9YFU)
