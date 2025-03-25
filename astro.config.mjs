@@ -14,7 +14,8 @@ export default defineConfig({
   integrations: [starlight({
       title: 'techxbc',
       logo: {
-        src: './src/assets/techxbc-logo.svg',
+        src: './src/assets/techxbc-logo2.svg',
+        replacesTitle: true,
       },
       social: {
           //github: 'https://github.com/withastro/starlight',
