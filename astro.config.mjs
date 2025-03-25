@@ -13,6 +13,9 @@ import mdx from '@astrojs/mdx';
 export default defineConfig({
   integrations: [starlight({
       title: 'techxbc',
+      logo: {
+        src: './src/assets/techxbc-logo.svg',
+      },
       social: {
           //github: 'https://github.com/withastro/starlight',
       },
