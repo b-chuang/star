@@ -1,10 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+
+
 import starlight from '@astrojs/starlight';
-
 import cloudflare from '@astrojs/cloudflare';
-
 import markdoc from '@astrojs/markdoc';
+import mdx from '@astrojs/mdx';
+
+
 
 // https://astro.build/config
 export default defineConfig({
@@ -30,7 +33,7 @@ export default defineConfig({
               autogenerate: { directory: 'artificial' },
           },
       ],
-  }), markdoc()],
+  }), mdx(), markdoc()],
 
   adapter: cloudflare(),
 });
